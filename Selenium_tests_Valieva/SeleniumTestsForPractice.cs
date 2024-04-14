@@ -21,7 +21,7 @@ public class SeleniumTestsForPractice
         Thread.Sleep(3000);
         var enter = driver.FindElement(By.Name("button"));
         enter.Click();
-        Thread.Sleep(2000);
+        Thread.Sleep(3000);
         var currentUrl = driver.Url;
         Assert.That(currentUrl=="https://staff-testing.testkontur.ru/news");
         driver.Quit();
