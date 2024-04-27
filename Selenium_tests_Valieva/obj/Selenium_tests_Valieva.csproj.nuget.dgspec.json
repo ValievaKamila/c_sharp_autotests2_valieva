@@ -38,6 +38,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[7.0.0-alpha.3, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.9.0, )"
@@ -49,6 +53,14 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.19.0, )"
+            },
+            "SeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.7.1, )"
             }
           },
           "imports": [

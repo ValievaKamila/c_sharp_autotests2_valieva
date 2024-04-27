@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Selenium_tests_Valieva")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c7ef123df1685bd8566d69ccd4c474e167f5fc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adcb5bcf1bc0ca032aab153c538d7ad9b3574351")]
 [assembly: System.Reflection.AssemblyProductAttribute("Selenium_tests_Valieva")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Selenium_tests_Valieva")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
